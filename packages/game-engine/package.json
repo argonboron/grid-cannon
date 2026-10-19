@@ -12,6 +12,6 @@
   "packageManager": "pnpm@10.34.1",
   "dependencies": {
     "tsup": "^8.5.1",
-    "vitest": "^4.1.8"
+    "vitest": "^4.1.11"
   }
 }
